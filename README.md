@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a learning developer with a lot of interest in the field. <br>I can be a bit of a perfectionist at times, but I do enjoy persevering and achieving my goals. <br>Additionally, I also like to help my colleagues with problems or other tasks and often try to view issues from multiple perspectives.<br><br>
+📆 19 years old <br>
+📍 Netherlands
+🌠 Lot of love for game development and pixel art <br>
 
 
 ## 🌐 Socials:
