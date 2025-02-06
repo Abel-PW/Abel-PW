@@ -1,6 +1,6 @@
 # 💫 About Me:
 📆 19 years old <br>
-📍 Netherlands
+📍 Netherlands <br>
 🌠 Lot of love for game development and pixel art <br>
 
 
